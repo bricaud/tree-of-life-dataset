@@ -27,3 +27,5 @@ Nodes of the tree have different properties:
 | ID | Integer | Id of the species in the tree (tolweb.org identifier) |
 
 There are no properties associated to the links between nodes.
+
+The dataset is a tree and contains 35960 species and 35959 links.
