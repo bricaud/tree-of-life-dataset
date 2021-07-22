@@ -10,7 +10,11 @@ The python script performing this task is provided as a Jupyter notebook `script
 
 The content of the data files available in the `data` folder are licenced under the same license as the original xml file [Attribution Creative Commons 3.0](https://creativecommons.org/licenses/by/3.0/). Except for the `xml` file, the copyright is owned by Benjamin Ricaud. Copies, redistributions, modifications are allowed. These files can be recreated using the Python script.
 
-## Details on the data in the xml file
+# Alternative places where to find Tree of life data
+
+You may find this dataset on Kaggle [https://www.kaggle.com/konivat/tree-of-life](https://www.kaggle.com/konivat/tree-of-life). The csv file has been extracted from the same data repository (tolweb.org) but the processing is independent of this Github repository. The contributors are different.
+
+# Details on the data in the xml file
 
 Nodes of the tree have different properties:
 
